@@ -1,2 +1,2 @@
 # logica-programacao
-Cuso de lógica de programação em Python
+Curso de lógica de programação em Python
