@@ -94,14 +94,16 @@ Após a execução do cálculo, o sistema pergunta se o usuário deseja realizar
 
 Durante o desenvolvimento foram utilizados conceitos fundamentais de programação, como:
 
-* Variáveis
-* Funções
-* Estruturas condicionais (`if`, `elif` e `else`)
-* Laços de repetição (`while`)
-* Entrada e saída de dados
-* Operações matemáticas
-* Tratamento de erros
-
+* Variáveis;
+* Funções;
+* Estruturas condicionais (`if`, `elif` e `else`);
+* Laços de repetição (`while`);
+* Entrada e saída de dados;
+* Operações matemáticas;
+* Tratamento de erros;
+* Entrada e saída de dados utilizando `input()` e `print()`;
+* Estruturas condicionais (`if`, `elif` e `else`);
+*  Validação das entradas do usuário.
 ---
 
 ## 💻 Exemplo de Utilização
@@ -124,7 +126,7 @@ Opção: 1
 Resultado: 60
 ```
 
----
+----
 
 ## 🎯 Objetivo
 
